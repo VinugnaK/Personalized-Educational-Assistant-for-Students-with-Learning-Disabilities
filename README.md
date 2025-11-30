@@ -63,7 +63,7 @@ cd Personalized-Educational-Assistant-for-Students-with-Learning-Disabilities
 
 ### **2. Install Requirements**
 ```bash
-pip install streamlit opencv-python mediapipe transformers speechrecognition numpy pillow sounddevice soundfile matplotlib
+pip install -r requirements.txt
 ```
 
 ### **3. Run the Application**
