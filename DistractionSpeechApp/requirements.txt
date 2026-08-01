@@ -1,0 +1,16 @@
+streamlit==1.16.0
+opencv-python==4.5.5.64
+numpy==1.24.3
+mediapipe==0.9.1.0
+pyttsx3==2.90
+speechrecognition==3.8.1
+transformers==4.28.1
+collections==3.6.0
+re==2.2.1
+threading==0.1.0
+queue==0.1.0
+Pillow==8.4.0
+matplotlib==3.5.1
+sounddevice==0.4.5
+soundfile==0.10.3.post1
+wave==0.0.1
